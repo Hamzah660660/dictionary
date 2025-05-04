@@ -1,16 +1,34 @@
-# dictionary
+# 📘 Dictionary App
 
-A new Flutter project.
+A simple and fast dictionary app to look up word meanings, synonyms, antonyms, and pronunciations — all in one place.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔍 Instant word lookup
+- 📖 Definitions from trusted sources
+- 🎧 Pronunciations with audio support
+- 🧠 Synonyms and antonyms
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – Cross-platform UI
+- **Provider** – State management
+- **Free Dictionary API** – Word data
+
+
+## 🧪 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- An emulator or real device
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/dictionary-app.git
+cd dictionary-app
+flutter pub get
+flutter run
+
